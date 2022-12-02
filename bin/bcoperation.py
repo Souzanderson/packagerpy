@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 from basicoperations import multiply,divide
 
 import sys

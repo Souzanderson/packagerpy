@@ -1,0 +1,5 @@
+setup.py
+operationsbasic.egg-info/PKG-INFO
+operationsbasic.egg-info/SOURCES.txt
+operationsbasic.egg-info/dependency_links.txt
+operationsbasic.egg-info/top_level.txt

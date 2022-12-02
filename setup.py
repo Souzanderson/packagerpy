@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.3' 
+VERSION = '0.0.4' 
 DESCRIPTION = 'Meu primeiro pacote em Python'
 LONG_DESCRIPTION = 'Meu primeiro pacote em Python com uma descrição um pouco mais longa'
 
@@ -14,6 +14,7 @@ setup(
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
+        scripts=['bin/bcoperation.py'],
         install_requires=[], # adicione outros pacotes que 
         # precisem ser instalados com o seu pacote. Ex: 'caer'
         

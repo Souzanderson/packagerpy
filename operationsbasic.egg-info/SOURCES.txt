@@ -1,4 +1,7 @@
+README.md
 setup.py
+bin/__init__.py
+bin/bcoperation.py
 operationsbasic.egg-info/PKG-INFO
 operationsbasic.egg-info/SOURCES.txt
 operationsbasic.egg-info/dependency_links.txt

@@ -14,7 +14,7 @@ setup(
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
-        scripts=['bin/bcoperation.py'],
+        scripts=['bin/bcoperation'],
         install_requires=[], # adicione outros pacotes que 
         # precisem ser instalados com o seu pacote. Ex: 'caer'
         
